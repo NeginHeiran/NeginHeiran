@@ -2,7 +2,7 @@
 
 Hi! I'm Negin (legally Fatemeh Heiran)! You might find me a bit odd—like a little bird that just can’t stay on one branch… but I never forget where home is!
 1. 🔭 I’m currently working on Estella Humanoid Robot Face, focusing on realistic facial expressions using advanced kinematics, and Painverse Telemedicine Robotics System, focusing on remote medical assessment.
-2. 🌱 I’m currently learning C/C++ programming to enhance my abilities in robotics.
+2. 🌱 I’m currently a student in Harvard CS50 computer science course to enhance my abilities in robotics.
 3. 👯 I’m looking to collaborate on humanoid robot development, telerobotics systems, and startup development.
 4. 🤔 I’m looking for help with fundraising for robotics and telemedicine projects.
 5. 💬 Ask me about humanoid robots, mechanism design, kinematics, dynamics, controller design, mechanical design, and product prototyping. On the business side, I have good ideas and experiences in business development and organization administration.
