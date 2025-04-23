@@ -11,6 +11,7 @@ Hi! I'm Negin (legally Fatemeh Heiran)! You might find me a bit odd—like a lit
 -  LinkedIn: https://www.linkedin.com/in/fatemeh-heiran-337bb416a/
 7. 😄 Pronouns: She/Her
 8. ⚡ Fun fact: I know myself as a dreamer, but others see me as a hardworker! what's the difference?
+9. You can find my CV file in the repository.
 <!-- TO DO: add more details about me later -->
 ---
 > Follow the White Rabbit!
