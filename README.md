@@ -1,9 +1,9 @@
 # About Me
 
 Hi! I'm Negin (legally Fatemeh Heiran) 🌿  
-Think of me like a little bird that never stays on one branch for too long — curious, restless, and always exploring. But no matter where I go, I never forget where home is.  
+Think of me like a little bird that never stays on one branch for too long - curious, restless, and always exploring. But no matter where I go, I never forget where home is.  
 
-Right now, I’m a **robotics engineer, dreamer, and founder-in-progress**.  
+Right now, I’m a **robotics engineer, interdisciplinary researcher, and founder-in-progress**.  
 
 ### 🔭 What I’m working on
 - **[Estella Humanoid Robot](https://github.com/EstellaHumanoids/Humanoid-Robot)**  
